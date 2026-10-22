@@ -1,5 +1,5 @@
 Author: Syed Farjad abbas
-Project title: Sum
+Project title: Calculator
 
-Purpose: Input two numbers and add them together.
+Purpose: Simple calculator for two inputs.
 
