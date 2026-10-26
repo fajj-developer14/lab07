@@ -2,5 +2,5 @@ Author: Syed Farjad abbas
 
 Project title: Calculator
 
-Purpose: A calcular project made for ICT lab
+Purpose: The program takes in two inputs and performs addition or multiplication based on the function call.
 
