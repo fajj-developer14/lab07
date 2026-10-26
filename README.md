@@ -1,5 +1,6 @@
 Author: Syed Farjad abbas
+
 Project title: Calculator
 
-Purpose: Simple calculator for two inputs.
+Purpose: A calcular project made for ICT lab
 
